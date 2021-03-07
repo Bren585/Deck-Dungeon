@@ -6,7 +6,7 @@ The full rules and gameplay can be found [here.](https://docs.google.com/documen
 
 This python arcade "port" of DD is one player, and some of the more complex mechanics of DD are notably absent, primarily the "class abilities," excluding the gambler class. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_4mSpMF_Hgc)
 
 # Development Environment
 
